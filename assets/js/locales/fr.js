@@ -1,0 +1,37 @@
+const translationsFR = {
+    home:"Acceuil",
+    about:"A propos",
+    project:"Projet",
+    welcome : "Bienvenue",
+    fullstack_developer : "Développeur fullstack",
+    transform_ideas_into_digital_solutions : "Transforme des idées en solution digital",
+    contact_me : "Contactez moi",
+    who_i_am : "Qui suis je ?",
+    introduction : "Développeur Full stack passionné dans la création de solutions web dynamiques et performantes. Je combine des compétences en développement front-end et back-end pour concevoir des applications intuitives et efficaces. Mon approche est centrée sur l'utilisateur, et je m'engage à transformer des idées en solutions digitales qui répondent aux besoins spécifiques de chaque client.",
+    my_goal : "Mon objectif",
+    goal_label : "contribuer à des projets innovants et enrichir continuellement mes compétences pour offrir un travail de qualité.",
+    download_cv : "Télécharger mon cv",
+    about_me : "A propos",
+    about_me_label1 : "En tant que développeur fullstack, je suis passionné par l'idée de transformer des concepts en applications fonctionnelles qui améliorent l'expérience utilisateur. J'adore explorer les nouvelles technologies et les tendances du développement web, ce qui me permet de rester à jour et de proposer des solutions innovantes.",
+    about_me_label2 : "Mon intérêt pour le développement a commencé lorsque j'ai découvert la puissance du code pour résoudre des problèmes et créer des interfaces engageantes. J'apprécie particulièrement la combinaison du design et de la logique, car elle me permet de donner vie à des projets à la fois esthétiques et fonctionnels.",
+    about_me_label3 : "Ce qui me motive dans mon travail, c'est la satisfaction de voir mes créations prendre forme et d'avoir un impact positif sur les utilisateurs. Je crois fermement que chaque ligne de code peut faire la différence, et je m'efforce d'apporter une valeur ajoutée à chaque projet.",
+    about_me_label4 : "En dehors du développement, je suis également curieux des domaines tel que l'analyse des données, ce qui me permet d'avoir une vision holistique des projets sur lesquels je travaille",
+    personal_information : "Information personnel",
+    firstname : "Nom",
+    lastname : "Prenom",
+    address : "Adresse",
+
+    licence_web : "Licence en option Web & Design",
+    scientific_baccalaureate : "Bacclaureat scientifique",
+
+    additional_eduction : "Formation complementaire",
+
+    skills : "Compétences",
+    language : "Langue",
+    english : "Anglais",
+    average : "Moyen",
+    english_label : "peut comprendre et écrire mais ne pas s'exprimer spontanémenty",
+    french : "Français",
+    fluent : "Courant",
+    french_label : "peut engager une conversationet s'exprimer sans hésitation"
+}
